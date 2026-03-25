@@ -1,0 +1,14 @@
+.pendaftaran-page {
+    min-height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f0fdf4; /* Hijau sangat muda */
+    padding: 20px;
+}
+
+/* Mempercantik tombol agar terlihat klik-able */
+.btn-submit {
+    cursor: pointer;
+    transition: 0.3s;
+}
